@@ -48,7 +48,6 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazode&theme=dark&hide_border=true&count_private=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=mazode&theme=dark&hide_border=true)
 
 ---
