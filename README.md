@@ -1,4 +1,4 @@
-**Hey there 👋, welcome to my code cave — where ideas turn into commits.**
+**Hey there 👋,**
 
 ---
 
